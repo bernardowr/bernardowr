@@ -1,10 +1,12 @@
-## 👋 Olá! Sou Bernardo Werner.  
+<img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
 Tenho conhecimentos em diversas linguagens de programação e frameworks, incluindo JavaScript, Python, Java, C#, SQL, além de CSS3 e outras tecnologias.  
 Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto para **Back-end**, com foco em aprimorar minhas habilidades para construir soluções robustas e escaláveis e me tornar um profissional Full Stack.
 
 📚 Formação Acadêmica:  
-Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.   
+Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas. 
 Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
 
@@ -51,7 +53,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
 
 
 
-## 📈 Minhas Estatísticas  
+### 📈 Minhas Estatísticas  
 <div align="center">
   <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardowr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -59,7 +61,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
 
 ---
 
-## 📫 Contato  
+### 📫 Contato  
 <div align="center">
   <a target="_blank" href="mailto:bernardo.wr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
