@@ -1,12 +1,18 @@
-<img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" hight="500px" min-width="400px" max-width="400" width="400px" align="right">
-
+<img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
+     alt="ilustração de um computador" 
+     height="320px" 
+     min-width="400px" 
+     max-width="400px" 
+     width="400px" 
+     align="right">
 👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
 Tenho conhecimentos em diversas linguagens de programação e frameworks, incluindo JavaScript, Python, Java, C#, SQL, além de CSS3 e outras tecnologias.  
 Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto para **Back-end**, com foco em aprimorar minhas habilidades para construir soluções robustas e escaláveis e me tornar um profissional Full Stack.
 
 📚 Formação Acadêmica:  
-Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas. Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
+Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
+Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
 
 ---
