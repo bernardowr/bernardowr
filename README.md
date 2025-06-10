@@ -86,4 +86,4 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
 ---
 
 
-### 🔎 Conheça um pouco dos meus projetos abaixo. 
+### 🔎 Conheça um pouco dos meus projetos. 
