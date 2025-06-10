@@ -6,8 +6,7 @@ Tenho conhecimentos em diversas linguagens de programação e frameworks, inclui
 Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto para **Back-end**, com foco em aprimorar minhas habilidades para construir soluções robustas e escaláveis e me tornar um profissional Full Stack.
 
 📚 Formação Acadêmica:  
-Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas. 
-Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
+Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
 
 ---
