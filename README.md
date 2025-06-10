@@ -1,6 +1,5 @@
 <img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
      alt="ilustração de um computador" 
-     height="330px" 
      min-width="400px" 
      max-width="400px" 
      width="400px" 
@@ -12,7 +11,8 @@ Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto pa
 
 📚 Formação Acadêmica:  
 Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
-Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
+Também tenho **especialização Lato Sensu em Criatividade, Inovação e   
+Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
 
 ---
