@@ -17,7 +17,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
 
 ---
 
-### 🚀 Linguagens e Frameworks    
+### 🚀 O que tenho estudado
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
