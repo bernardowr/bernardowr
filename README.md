@@ -7,7 +7,7 @@
 👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
 Tenho conhecimentos em diversas linguagens de programação e frameworks, incluindo JavaScript, Python, Java, C#, SQL, além de CSS3 e outras tecnologias.  
-Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto para **Back-end**, com foco em aprimorar minhas habilidades para construir soluções robustas e escaláveis e me tornar um profissional Full Stack.
+Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto para **Back-end**, com foco em aprimorar minhas habilidades para me tornar um profissional Full Stack.
 
 📚 Formação Acadêmica:  
 Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
