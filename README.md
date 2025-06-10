@@ -1,6 +1,6 @@
 <img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
      alt="ilustração de um computador" 
-     height="320px" 
+     height="330px" 
      min-width="400px" 
      max-width="400px" 
      width="400px" 
