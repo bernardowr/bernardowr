@@ -1,4 +1,4 @@
-<img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="500px" max-width="500" width="500px" align="right">
+<img src="https://github.com/bernardowr/bernardowr/blob/main/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" hight="500px" min-width="400px" max-width="400" width="400px" align="right">
 
 👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
