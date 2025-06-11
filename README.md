@@ -39,6 +39,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>Javascript
     </td>
+       <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
         <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="30" height="30"/>
@@ -57,6 +58,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>CSS
     </td>
+  <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/CSS">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="30" height="30"/>
@@ -74,7 +76,9 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
         <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="30" height="30"/>
       </a>
       <br>C#
+      <tr>
     </td>
+  <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
         <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="30" height="30"/>
@@ -93,6 +97,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>MySQL
     </td>
+     <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="30" height="30"/>
