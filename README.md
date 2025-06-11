@@ -19,7 +19,10 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
 
 ### 🚀 O que tenho estudado
 <br>
-<table align="center" border-collapse="collapse" border="none">
+  - ![Python](https://skillicons.dev/icons?i=python) **Python**
+- ![Pandas](https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg) **Pandas**
+- ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**
+<table align="center">
   <tr align="center">
     <td align="center" width="96">
       <a href="https://appwrite.io/">
