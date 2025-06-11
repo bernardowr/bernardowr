@@ -51,8 +51,6 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>Java
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/CSS">
         <img src="https://skillicons.dev/icons?i=css" alt="icon" width="30" height="30"/>
@@ -83,7 +81,6 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>Wordpress
     </td>
-       <tr>
     </td>
       <td align="center" width="96">
       <a href="https://appwrite.io/">
@@ -114,7 +111,6 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
       </a>
       <br>AWS
     </td>
-    </tr>
 </table>
 
 
