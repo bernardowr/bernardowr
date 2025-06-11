@@ -38,6 +38,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
       </a>
       <br>Javascript
     </td>
+    </tr>          
        <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
@@ -51,12 +52,13 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/CSS">
         <img src="https://skillicons.dev/icons?i=css" alt="icon" width="30" height="30"/>
       </a>
       <br>CSS
-    </td>
+  </td>
+  </tr>        
   <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/CSS">
@@ -75,9 +77,9 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
         <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="30" height="30"/>
       </a>
       <br>C#
-      <tr>
-    </td>
-  <tr>
+      </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
         <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="30" height="30"/>
@@ -96,6 +98,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
       </a>
       <br>MySQL
     </td>
+     </tr>
      <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
@@ -115,6 +118,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
       </a>
       <br>AWS
     </td>
+    </tr>
 </table>
 
 
