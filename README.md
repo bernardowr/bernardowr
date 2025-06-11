@@ -11,8 +11,7 @@ Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto pa
 
 📚 Formação Acadêmica:  
 Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
-Também tenho **especialização Lato Sensu em Criatividade, Inovação e   
-Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
+Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
 
 ---
