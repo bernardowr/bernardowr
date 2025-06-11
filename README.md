@@ -118,7 +118,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
 ### 🔧 Versionamento e Controle de Código
 <br>
 <table align="center">
-  <tr>
+  <tr allign="center">
     <td align="center" width="96">
       <a href="https://appwrite.io/">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="30" height="30"/>
