@@ -19,7 +19,7 @@ Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito 
 
 ### 🚀 O que tenho estudado
 <br>
-<table align="center">
+<table align="center" border-collapse="colapse">
   <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
