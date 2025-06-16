@@ -14,8 +14,7 @@ Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto pa
 Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
 Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
-🇺🇸  
-*Hi, I'm Bernardo Werner.
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30"> *Hi, I'm Bernardo Werner.
 I'm a developer with a passion for technology and innovation, with experience in creating intuitive and responsive applications.
 I have knowledge of several programming languages and frameworks, including JavaScript, Python, Java, C#, SQL, as well as CSS3 and other technologies.
 I'm always looking for new ways to learn, both Front-end and Back-end, with a focus on improving my skills to become a Full Stack professional.
@@ -30,7 +29,7 @@ I also have Lato Sensu specializations in Creativity, Innovation and Market Inte
   <tr>
     <td align="center" width="96">
       <a href="https://appwrite.io/">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="30" height="30"/>
+        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="30" height="30" margin="0"/>
       </a>
       <br>Python
     </td>
