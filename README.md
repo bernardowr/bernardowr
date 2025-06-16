@@ -195,7 +195,7 @@ I also have Lato Sensu specializations in Creativity, Innovation and Market Inte
 
 ---
 
-### 📫 Contato  
+### 📫 Contato - *Contact* 
 <div align="center">
   <a target="_blank" href="mailto:bernardo.wr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -215,4 +215,4 @@ I also have Lato Sensu specializations in Creativity, Innovation and Market Inte
 ---
 
 
-### 🔎 Conheça um pouco dos meus projetos. 
+### 🔎 Conheça meus projetos. - *Check out my projects.*
