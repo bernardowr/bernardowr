@@ -4,6 +4,7 @@
      max-width="400px" 
      width="400px" 
      align="right">
+🇧🇷  
 👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
 Tenho conhecimentos em diversas linguagens de programação e frameworks, incluindo JavaScript, Python, Java, C#, SQL, além de CSS3 e outras tecnologias.  
@@ -13,10 +14,17 @@ Estou sempre em busca de novos aprendizados, tanto para **Front-end**, quanto pa
 Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal Catarinense, complementando minhas formações em Direito e Administração de empresas.  
 Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteligência de Mercado**, Ensino a Distância (Docência e Tutoria) e Direito Imobiliário.
 
+🇺🇸  
+*Hi, I'm Bernardo Werner.
+I'm a developer with a passion for technology and innovation, with experience in creating intuitive and responsive applications.
+I have knowledge of several programming languages and frameworks, including JavaScript, Python, Java, C#, SQL, as well as CSS3 and other technologies.
+I'm always looking for new ways to learn, both Front-end and Back-end, with a focus on improving my skills to become a Full Stack professional.
+Academic background: I'm currently studying Internet Systems Technology at the Instituto Federal Catarinense, complementing my degrees in Law and Business Administration.
+I also have Lato Sensu specializations in Creativity, Innovation and Market Intelligence, Distance Learning (Teaching and Tutoring) and Real Estate Law.*
 
 ---
 
-### 🚀 O que tenho estudado
+### 🚀 O que tenho estudado - *What I've been studying*
 <br>
 <table align="center">
   <tr>
@@ -123,7 +131,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
 
 
 
-### 🔧 Versionamento e Controle de Código
+### 🔧 Versionamento de Código - *Code versioning*
 <br>
 <table align="center">
   <tr>
@@ -148,7 +156,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
 </table>
 
 
-### 📦 Contêinerização e Orquestração
+### 📦 Contêinerização e Orquestração - *Containerization and Orchestration*
 <br>
 <table align="center">
   <tr>
@@ -167,7 +175,7 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
  </table>
 
 
-### 🛠️ Organização e Gerenciamento de Projetos
+### 🛠️ Gerenciamento de Projetos - *Project Management*
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -179,7 +187,8 @@ Também tenho **especialização Lato Sensu em Criatividade, Inovação e Inteli
 
 
 
-### 📈 Minhas Estatísticas  
+### 📈 Minhas Estatísticas - *My Statistics*
+s  
 <div align="center">
   <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardowr&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernardowr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
