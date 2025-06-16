@@ -4,7 +4,7 @@
      max-width="400px" 
      width="400px" 
      align="right">
-🇧🇷  
+
 👋 Olá! Sou Bernardo Werner.  
 💻 **Desenvolvedor** apaixonado por tecnologia e inovação, com experiência na criação de aplicações intuitivas e responsivas.  
 Tenho conhecimentos em diversas linguagens de programação e frameworks, incluindo JavaScript, Python, Java, C#, SQL, além de CSS3 e outras tecnologias.  
@@ -188,7 +188,6 @@ I also have Lato Sensu specializations in Creativity, Innovation and Market Inte
 
 
 ### 📈 Minhas Estatísticas - *My Statistics*
-s  
 <div align="center">
   <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardowr&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernardowr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
